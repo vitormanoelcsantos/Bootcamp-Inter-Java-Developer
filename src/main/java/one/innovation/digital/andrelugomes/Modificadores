@@ -1,0 +1,14 @@
+Public, os métodos e propriedades podem ser acessada por qualquer classe ou pacote.
+
+Private, os métodos e propriedades só podem ser acessados pela classe que os declara.
+
+Protected, é um modificador menos restritivo do que o private, os métodos e propriedades são acessíveis a classe que
+os declara, as sua subclasses em outros pacotes e outras classe dentro do mesmo pacote.
+
+Default, os métodos, propriedades e classes são visíveis a todas dentro do mesmo pacote.
+
+Abstract, Classes abstratas não podem ser instanciadas. Só servem como base ou protótipo para outras classes
+que a estendem.
+
+É necessário haver um construtor para ser feita a instância de uma classe.
+
