@@ -1,5 +1,5 @@
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/solucao/Produto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.solucao.Produto
+one/innovation/digital/gabrielsantos/OCP/solucao/ControladorDeDesconto.java
+ one.innovation.digital.gabrielsantos.OCP.solucao.ControladorDeDesconto
 one/innovation/digital/marcopollivier/orientacaoObjeto/Teste/SubLider.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.Teste.SubLider
 one/innovation/digital/andrelugomes/classes/usuario/ProgramaDoSuperUsuario.java
@@ -10,70 +10,84 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/Teste/Lider.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.Teste.Lider
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Supervisor.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Supervisor
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/solucao/DescontoLivroAcao.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.solucao.DescontoLivroAcao
 one/innovation/digital/andrelugomes/condicionais/ifs/If.java
  one.innovation.digital.andrelugomes.condicionais.ifs.If
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/solucao/ProdutoRepository.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.solucao.ProdutoRepository
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Programa
+one/innovation/digital/wesleyfuchter/queue/LinkedList02.java
+ one.innovation.digital.wesleyfuchter.queue.LinkedList02
 one/innovation/digital/alexduarteferreira/Trycatch.java
  one.innovation.digital.alexduarteferreira.Trycatch
 one/innovation/digital/andrelugomes/strings/StringsFormat.java
  one.innovation.digital.andrelugomes.strings.StringsFormat
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/solucao/OrdemDeCompraPrint.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.solucao.OrdemDeCompraPrint
 one/innovation/digital/andrelugomes/strings/Exercicio.java
  one.innovation.digital.andrelugomes.strings.Exercicio
+one/innovation/digital/gabrielsantos/ISP/solucao/AvesVoam.java
+ one.innovation.digital.gabrielsantos.ISP.solucao.AvesVoam
+one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivro.java
+ one.innovation.digital.gabrielsantos.OCP.solucao.DescontoLivro
+one/innovation/digital/gabrielsantos/SRP/problema/OrdemDeCompra.java
+ one.innovation.digital.gabrielsantos.SRP.problema.OrdemDeCompra
 one/innovation/digital/andrelugomes/tipos/tipagem/TipagemEstatica.java
  one.innovation.digital.andrelugomes.tipos.tipagem.TipagemEstatica
 one/innovation/digital/andrelugomes/strings/StringsBuilder.java
  one.innovation.digital.andrelugomes.strings.StringsBuilder
 one/innovation/digital/andrelugomes/abstracts/Circulo.java
  one.innovation.digital.andrelugomes.abstracts.Circulo
+one/innovation/digital/gabrielsantos/DIP/solucao/ProdutoRepository.java
+ one.innovation.digital.gabrielsantos.DIP.solucao.ProdutoRepository
 one/innovation/digital/andrelugomes/enums/Programa.java
  one.innovation.digital.andrelugomes.enums.Programa
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/solucao/DescontoLivroInfantil.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.solucao.DescontoLivroInfantil
+one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroAutoAjuda.java
+ one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroAutoAjuda
 one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/primeiro/Carro.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.primeiro.Carro
+one/innovation/digital/wesleyfuchter/queue/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.queue.desafio.Programa
 one/innovation/digital/andrelugomes/tipos/wrappers/Autoboxing.java
  one.innovation.digital.andrelugomes.tipos.wrappers.Autoboxing
 one/innovation/digital/andrelugomes/tipos/tipagem/TipagemForte.java
  one.innovation.digital.andrelugomes.tipos.tipagem.TipagemForte
 one/innovation/digital/andrelugomes/strings/Strings.java
  one.innovation.digital.andrelugomes.strings.Strings
+one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivroInfantil.java
+ one.innovation.digital.gabrielsantos.OCP.solucao.DescontoLivroInfantil
 one/innovation/digital/andrelugomes/finals/Programa.java
  one.innovation.digital.andrelugomes.finals.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/ExemploInstanciaObjeto.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.paradigma.ExemploInstanciaObjeto
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/solucao/OracleConnection.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.solucao.OracleConnection
+one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivroAcao.java
+ one.innovation.digital.gabrielsantos.OCP.solucao.DescontoLivroAcao
 one/innovation/digital/marcopollivier/orientacaoObjeto/construtores/ExemploInstanciaObjeto.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.construtores.ExemploInstanciaObjeto
-one/innovation/digital/andrelugomes/interfaces/Gol.java
- one.innovation.digital.andrelugomes.interfaces.Gol
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/solucao/Pinguim.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.solucao.Pinguim
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/problema/Pinguim.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.problema.Pinguim
+one/innovation/digital/gabrielsantos/ISP/solucao/Ave.java
+ one.innovation.digital.gabrielsantos.ISP.solucao.Ave
+one/innovation/digital/wesleyfuchter/map/ExemploHashTable.java
+ one.innovation.digital.wesleyfuchter.map.ExemploHashTable
+one/innovation/digital/gabrielsantos/SRP/problema/Produto.java
+ one.innovation.digital.gabrielsantos.SRP.problema.Produto
+one/innovation/digital/wesleyfuchter/list/ExemploList.java
+ one.innovation.digital.wesleyfuchter.list.ExemploList
+one/innovation/digital/gabrielsantos/DIP/problema/ProdutoRepository.java
+ one.innovation.digital.gabrielsantos.DIP.problema.ProdutoRepository
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Atendente.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Atendente
+one/innovation/digital/wesleyfuchter/queue/LinkedList01.java
+ one.innovation.digital.wesleyfuchter.queue.LinkedList01
 one/innovation/digital/andrelugomes/enums/TipoVeiculo.java
  one.innovation.digital.andrelugomes.enums.TipoVeiculo
+one/innovation/digital/gabrielsantos/ISP/problema/Pato.java
+ one.innovation.digital.gabrielsantos.ISP.problema.Pato
 one/innovation/digital/andrelugomes/finals/CasualGamer.java
  one.innovation.digital.andrelugomes.finals.CasualGamer
 one/innovation/digital/andrelugomes/debug/imc/CalculadorDeIMC.java
  one.innovation.digital.andrelugomes.debug.imc.CalculadorDeIMC
-one/innovation/digital/gabrielsantos/S/O/L/I/D/LSP/problema/Quadrado.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.LSP.problema.Quadrado
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/problema/Produto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.problema.Produto
 one/innovation/digital/alexduarteferreira/Finally.java
  one.innovation.digital.alexduarteferreira.Finally
 one/innovation/digital/marcopollivier/orientacaoObjeto/construtores/Pessoa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.construtores.Pessoa
+one/innovation/digital/gabrielsantos/LSP/Quadrado.java
+ one.innovation.digital.gabrielsantos.LSP.Quadrado
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo01.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo01
 one/innovation/digital/andrelugomes/condicionais/operadores/Incremento.java
@@ -82,10 +96,14 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/segundo/Programa.
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.segundo.Programa
 one/innovation/digital/andrelugomes/statics/Cachorro.java
  one.innovation.digital.andrelugomes.statics.Cachorro
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/solucao/AvesVoam.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.solucao.AvesVoam
+one/innovation/digital/gabrielsantos/OCP/problema/ControladorDeDesconto.java
+ one.innovation.digital.gabrielsantos.OCP.problema.ControladorDeDesconto
+one/innovation/digital/wesleyfuchter/map/NumerosRepetidos.java
+ one.innovation.digital.wesleyfuchter.map.NumerosRepetidos
 one/innovation/digital/andrelugomes/interfaces/Programa.java
  one.innovation.digital.andrelugomes.interfaces.Programa
+one/innovation/digital/gabrielsantos/DIP/solucao/OracleConnection.java
+ one.innovation.digital.gabrielsantos.DIP.solucao.OracleConnection
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/Exemplo03.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.Exemplo03
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/encapsulamento/Pessoa.java
@@ -98,98 +116,92 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/e
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo03.equals.Programa
 one/innovation/digital/andrelugomes/finals/HardcoreGamer.java
  one.innovation.digital.andrelugomes.finals.HardcoreGamer
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/solucao/OrdemDeCompraEmail.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.solucao.OrdemDeCompraEmail
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/solucao/OrdemDeCompraRepository.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.solucao.OrdemDeCompraRepository
+one/innovation/digital/gabrielsantos/LSP/Programa.java
+ one.innovation.digital.gabrielsantos.LSP.Programa
 one/innovation/digital/alexduarteferreira/Throw.java
  one.innovation.digital.alexduarteferreira.Throw
-one/innovation/digital/gabrielsantos/S/O/L/I/D/LSP/problema/Programa.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.LSP.problema.Programa
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/solucao/ControladorDeDesconto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.solucao.ControladorDeDesconto
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo02/Motocicleta.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo02.Motocicleta
 one/innovation/digital/andrelugomes/classes/pessoa/PTeste.java
  one.innovation.digital.andrelugomes.classes.pessoa.PTeste
 one/innovation/digital/andrelugomes/enums/Status.java
  one.innovation.digital.andrelugomes.enums.Status
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/problema/OrdemDeCompra.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.problema.OrdemDeCompra
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/problema/DescontoLivroInfantil.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.problema.DescontoLivroInfantil
+one/innovation/digital/wesleyfuchter/set/ExemploTreeSet.java
+ one.innovation.digital.wesleyfuchter.set.ExemploTreeSet
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDateFormat/Exemplo01.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDateFormat.Exemplo01
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDateFormat/Desafio/Programa.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDateFormat.Desafio.Programa
 one/innovation/digital/andrelugomes/interfaces/Automovel.java
  one.innovation.digital.andrelugomes.interfaces.Automovel
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/solucao/MySqlConnection.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.solucao.MySqlConnection
 one/innovation/digital/andrelugomes/classes/cliente/ProgramaDoCliente.java
  one.innovation.digital.andrelugomes.classes.cliente.ProgramaDoCliente
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Gerente.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Gerente
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Desafio/Programa.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Desafio.Programa
+one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroAcao.java
+ one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroAcao
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/primeiro/Pessoa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.primeiro.Pessoa
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/solucao/DescontoLivroAutoAjuda.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.solucao.DescontoLivroAutoAjuda
 one/innovation/digital/andrelugomes/classes/pessoa/ProgramaPessoaFisica.java
  one.innovation.digital.andrelugomes.classes.pessoa.ProgramaPessoaFisica
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo05.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo05
-one/innovation/digital/andrelugomes/condicionais/operadores/Matematicos.java
- one.innovation.digital.andrelugomes.condicionais.operadores.Matematicos
 one/innovation/digital/andrelugomes/interfaces/Trator.java
  one.innovation.digital.andrelugomes.interfaces.Trator
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/ExemploMetodos.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.paradigma.ExemploMetodos
+one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompraRepository.java
+ one.innovation.digital.gabrielsantos.SRP.solucao.OrdemDeCompraRepository
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo02
 one/innovation/digital/andrelugomes/classes/pessoa/ProgramaDoUsuario.java
  one.innovation.digital.andrelugomes.classes.pessoa.ProgramaDoUsuario
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/problema/DescontoLivroAcao.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.problema.DescontoLivroAcao
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/problema/ProdutoRepository.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.problema.ProdutoRepository
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/problema/Pato.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.problema.Pato
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo01.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo01
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo04.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo04
+one/innovation/digital/wesleyfuchter/set/ExemploLinkedHashSet.java
+ one.innovation.digital.wesleyfuchter.set.ExemploLinkedHashSet
 one/innovation/digital/alexduarteferreira/Throws.java
  one.innovation.digital.alexduarteferreira.Throws
+one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompraEmail.java
+ one.innovation.digital.gabrielsantos.SRP.solucao.OrdemDeCompraEmail
 one/innovation/digital/andrelugomes/classes/Programa.java
  one.innovation.digital.andrelugomes.classes.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Veiculo.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Veiculo
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo02/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo02.Programa
-one/innovation/digital/gabrielsantos/S/O/L/I/D/LSP/problema/Retangulo.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.LSP.problema.Retangulo
+one/innovation/digital/gabrielsantos/ISP/problema/Ave.java
+ one.innovation.digital.gabrielsantos.ISP.problema.Ave
+one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompra.java
+ one.innovation.digital.gabrielsantos.SRP.solucao.OrdemDeCompra
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo05.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo05
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo03/equals/Carro.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo03.equals.Carro
+one/innovation/digital/wesleyfuchter/list/ExemploArrayList.java
+ one.innovation.digital.wesleyfuchter.list.ExemploArrayList
+one/innovation/digital/gabrielsantos/ISP/problema/Pinguim.java
+ one.innovation.digital.gabrielsantos.ISP.problema.Pinguim
 one/innovation/digital/andrelugomes/classes/pessoa/ProgramaDoCliente.java
  one.innovation.digital.andrelugomes.classes.pessoa.ProgramaDoCliente
 one/innovation/digital/augustojulio/Array.java
  one.innovation.digital.augustojulio.Array
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/solucao/Produto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.solucao.Produto
 one/innovation/digital/andrelugomes/tipos/tipagem/TipoInferido.java
  one.innovation.digital.andrelugomes.tipos.tipagem.TipoInferido
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/problema/DescontoLivroAutoAjuda.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.problema.DescontoLivroAutoAjuda
+one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompraPrint.java
+ one.innovation.digital.gabrielsantos.SRP.solucao.OrdemDeCompraPrint
 one/innovation/digital/marcopollivier/orientacaoObjeto/Teste/Pessoa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.Teste.Pessoa
 one/innovation/digital/marcopollivier/orientacaoObjeto/Teste/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.Teste.Programa
+one/innovation/digital/gabrielsantos/SRP/solucao/Produto.java
+ one.innovation.digital.gabrielsantos.SRP.solucao.Produto
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo03/equals/Veiculo.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo03.equals.Veiculo
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/Pessoa.java
@@ -200,28 +212,24 @@ one/innovation/digital/andrelugomes/abstracts/FormaGeometrica.java
  one.innovation.digital.andrelugomes.abstracts.FormaGeometrica
 one/innovation/digital/andrelugomes/interfaces/Fiesta.java
  one.innovation.digital.andrelugomes.interfaces.Fiesta
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/solucao/DescontoLivro.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.solucao.DescontoLivro
+one/innovation/digital/gabrielsantos/DIP/solucao/MySqlConnection.java
+ one.innovation.digital.gabrielsantos.DIP.solucao.MySqlConnection
 one/innovation/digital/andrelugomes/condicionais/operadores/Logico.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Logico
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/problema/Produto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.problema.Produto
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDateFormat/Teste.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDateFormat.Teste
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/encapsulamento/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.encapsulamento.Programa
 one/innovation/digital/andrelugomes/condicionais/whiles/While.java
  one.innovation.digital.andrelugomes.condicionais.whiles.While
-one/innovation/digital/gabrielsantos/S/O/L/I/D/SRP/solucao/OrdemDeCompra.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.SRP.solucao.OrdemDeCompra
 one/innovation/digital/andrelugomes/abstracts/Quadrado.java
  one.innovation.digital.andrelugomes.abstracts.Quadrado
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo03.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo03
+one/innovation/digital/wesleyfuchter/set/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.set.desafio.Programa
 one/innovation/digital/andrelugomes/tipos/naoprimitivos/Unboxing.java
  one.innovation.digital.andrelugomes.tipos.naoprimitivos.Unboxing
-one/innovation/digital/gabrielsantos/S/O/L/I/D/OCP/problema/ControladorDeDesconto.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.OCP.problema.ControladorDeDesconto
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/Exemplo01.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.Exemplo01
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo06.java
@@ -236,6 +244,8 @@ one/innovation/digital/andrelugomes/classes/cliente/Cliente.java
  one.innovation.digital.andrelugomes.classes.cliente.Cliente
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo04.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo04
+one/innovation/digital/wesleyfuchter/set/ExemploHashSet.java
+ one.innovation.digital.wesleyfuchter.set.ExemploHashSet
 one/innovation/digital/andrelugomes/classes/usuario/SuperUsuario.java
  one.innovation.digital.andrelugomes.classes.usuario.SuperUsuario
 one/innovation/digital/andrelugomes/interfaces/Carro.java
@@ -251,50 +261,56 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/segundo/Carro.jav
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.segundo.Carro
 one/innovation/digital/andrelugomes/condicionais/fors/For.java
  one.innovation.digital.andrelugomes.condicionais.fors.For
+one/innovation/digital/wesleyfuchter/list/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.list.desafio.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo02/Veiculo.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo02.Veiculo
 one/innovation/digital/alexduarteferreira/letraB/TesteExececaoLetraB.java
  one.innovation.digital.alexduarteferreira.letraB.TesteExececaoLetraB
 one/innovation/digital/andrelugomes/classes/pessoa/PessoaFisica.java
  one.innovation.digital.andrelugomes.classes.pessoa.PessoaFisica
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/problema/Ave.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.problema.Ave
 one/innovation/digital/andrelugomes/classes/pessoa/Pessoa.java
  one.innovation.digital.andrelugomes.classes.pessoa.Pessoa
 one/innovation/digital/andrelugomes/condicionais/operadores/Igualdade.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Igualdade
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/problema/MySqlConnection.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.problema.MySqlConnection
-one/innovation/digital/gabrielsantos/S/O/L/I/D/DIP/solucao/DbConnection.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.DIP.solucao.DbConnection
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo02
 one/innovation/digital/andrelugomes/condicionais/operadores/Relacionais.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Relacionais
 one/innovation/digital/andrelugomes/finals/Gamer.java
  one.innovation.digital.andrelugomes.finals.Gamer
-one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Carro.java
- one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Carro
+one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/desafio/Programa.java
+ one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.desafio.Programa
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo03.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo03
+one/innovation/digital/gabrielsantos/DIP/problema/MySqlConnection.java
+ one.innovation.digital.gabrielsantos.DIP.problema.MySqlConnection
 one/innovation/digital/andrelugomes/tipos/naoprimitivos/NaoPrimitivos.java
  one.innovation.digital.andrelugomes.tipos.naoprimitivos.NaoPrimitivos
+one/innovation/digital/gabrielsantos/LSP/Retangulo.java
+ one.innovation.digital.gabrielsantos.LSP.Retangulo
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDateFormat/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDateFormat.Exemplo02
 one/innovation/digital/andrelugomes/abstracts/Programa.java
  one.innovation.digital.andrelugomes.abstracts.Programa
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.Exemplo02
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/solucao/Pato.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.solucao.Pato
 one/innovation/digital/andrelugomes/classes/pessoa/Teste.java
  one.innovation.digital.andrelugomes.classes.pessoa.Teste
-one/innovation/digital/gabrielsantos/S/O/L/I/D/ISP/solucao/Ave.java
- one.innovation.digital.gabrielsantos.S.O.L.I.D.ISP.solucao.Ave
+one/innovation/digital/gabrielsantos/ISP/solucao/Pinguim.java
+ one.innovation.digital.gabrielsantos.ISP.solucao.Pinguim
+one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivroAutoAjuda.java
+ one.innovation.digital.gabrielsantos.OCP.solucao.DescontoLivroAutoAjuda
+one/innovation/digital/gabrielsantos/DIP/solucao/DbConnection.java
+ one.innovation.digital.gabrielsantos.DIP.solucao.DbConnection
 one/innovation/digital/andrelugomes/condicionais/Exercicio.java
  one.innovation.digital.andrelugomes.condicionais.Exercicio
+one/innovation/digital/gabrielsantos/ISP/solucao/Pato.java
+ one.innovation.digital.gabrielsantos.ISP.solucao.Pato
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Motocicleta.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Motocicleta
+one/innovation/digital/gabrielsantos/DIP/problema/Produto.java
+ one.innovation.digital.gabrielsantos.DIP.problema.Produto
 one/innovation/digital/andrelugomes/debug/pessoa/Pessoa.java
  one.innovation.digital.andrelugomes.debug.pessoa.Pessoa
 one/innovation/digital/andrelugomes/interfaces/Veiculo.java
@@ -304,19 +320,21 @@ one/innovation/digital/andrelugomes/tipos/primitivos/DefaultValues.java
  one.innovation.digital.andrelugomes.tipos.primitivos.DefaultValues
 one/innovation/digital/andrelugomes/statics/Programa.java
  one.innovation.digital.andrelugomes.statics.Programa
-one/innovation/digital/wesleyfuchter/list/ExemploList.java
- one.innovation.digital.wesleyfuchter.list.ExemploList
-one/innovation/digital/wesleyfuchter/list/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.list.desafio.Programa
-one/innovation/digital/wesleyfuchter/queue/LinkedList02.java
- one.innovation.digital.wesleyfuchter.queue.LinkedList02
-one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/desafio/Programa.java
- one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.desafio.Programa
-one/innovation/digital/wesleyfuchter/list/ExemploArrayList.java
- one.innovation.digital.wesleyfuchter.list.ExemploArrayList
-one/innovation/digital/wesleyfuchter/queue/LinkedList01.java
- one.innovation.digital.wesleyfuchter.queue.LinkedList01
+one/innovation/digital/gabrielsantos/DIP/solucao/Produto.java
+ one.innovation.digital.gabrielsantos.DIP.solucao.Produto
+one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Carro.java
+ one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Carro
+one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroInfantil.java
+ one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroInfantil
 one/innovation/digital/wesleyfuchter/list/ExemploVector.java
  one.innovation.digital.wesleyfuchter.list.ExemploVector
-one/innovation/digital/wesleyfuchter/queue/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.queue.desafio.Programa
+one/innovation/digital/andrelugomes/interfaces/Gol.java
+ one.innovation.digital.andrelugomes.interfaces.Gol
+one/innovation/digital/andrelugomes/condicionais/operadores/Matematicos.java
+ one.innovation.digital.andrelugomes.condicionais.operadores.Matematicos
+one/innovation/digital/wesleyfuchter/map/ExemploHashmap.java
+ one.innovation.digital.wesleyfuchter.map.ExemploHashmap
+one/innovation/digital/wesleyfuchter/map/ExemploTreeMap.java
+ one.innovation.digital.wesleyfuchter.map.ExemploTreeMap
+one/innovation/digital/wesleyfuchter/map/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.map.desafio.Programa

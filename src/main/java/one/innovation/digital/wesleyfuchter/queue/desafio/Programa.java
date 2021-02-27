@@ -1,5 +1,6 @@
 package one.innovation.digital.wesleyfuchter.queue.desafio;
 
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -7,11 +8,14 @@ public class Programa {
     public static void main(String[] args) {
         Queue<String> filaSupermercado = new LinkedList<>();
 
+
+
         filaSupermercado.add("Juliana");
         filaSupermercado.add("Pedro");
         filaSupermercado.add("Carlos");
         filaSupermercado.add("Larissa");
         filaSupermercado.add("João");
+
 
         for (String nomeDasPessoasNaFila : filaSupermercado
         ) {
@@ -42,5 +46,7 @@ public class Programa {
         System.out.println();
 
         System.out.println("O nome Carlos está na lista? " +filaSupermercado.contains("Carlos"));
+
+
     }
 }
