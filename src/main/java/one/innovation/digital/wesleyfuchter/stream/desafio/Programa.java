@@ -14,6 +14,7 @@ public class Programa {
         estudantes.add(new Estudante("Eduardo Henrique", 5));
         estudantes.add(new Estudante("Ana Paula", 51));
         estudantes.add(new Estudante("Suzana Beatriz", 25));
+//        estudantes.add(new Estudante("Vitinho", 19));
 
 
         System.out.println("Aluno - Idade " + estudantes.stream().map(elemento -> elemento.getNome().concat(" - ")
@@ -57,6 +58,11 @@ public class Programa {
         System.out.println("O estudante mais novo é: " + estudantes.stream().min(Comparator.comparingInt(Estudante::getIdade))
                 .map(elemento -> elemento.getNome().concat(" - ").concat(String.valueOf(elemento.getIdade()))));
         System.out.println();
+
+//        System.out.println("Agrupados pela primeira letra:" +estudantes.stream().filter(elemento ->
+//                elemento.getIdade() > 18).map(elemento -> elemento.getNome())
+//                .collect(Collectors.groupingBy(elemento -> elemento.substring(0, 1))));
+//        Irá agrupar pela primeira letra, e se forem maiores de 18.
 
     }
 }
