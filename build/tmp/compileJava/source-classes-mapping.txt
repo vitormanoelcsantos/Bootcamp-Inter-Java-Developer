@@ -42,6 +42,8 @@ one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroAutoAjuda.java
  one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroAutoAjuda
 one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/primeiro/Carro.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.primeiro.Carro
+one/innovation/digital/wesleyfuchter/map/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.map.desafio.Programa
 one/innovation/digital/wesleyfuchter/queue/desafio/Programa.java
  one.innovation.digital.wesleyfuchter.queue.desafio.Programa
 one/innovation/digital/andrelugomes/tipos/wrappers/Autoboxing.java
@@ -96,10 +98,14 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/segundo/Programa.
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.segundo.Programa
 one/innovation/digital/andrelugomes/statics/Cachorro.java
  one.innovation.digital.andrelugomes.statics.Cachorro
+one/innovation/digital/wesleyfuchter/comparators/ComparatorsExemploList.java
+ one.innovation.digital.wesleyfuchter.comparators.ComparatorsExemploList
 one/innovation/digital/gabrielsantos/OCP/problema/ControladorDeDesconto.java
  one.innovation.digital.gabrielsantos.OCP.problema.ControladorDeDesconto
-one/innovation/digital/wesleyfuchter/map/NumerosRepetidos.java
- one.innovation.digital.wesleyfuchter.map.NumerosRepetidos
+one/innovation/digital/wesleyfuchter/map/ExemploTreeMap.java
+ one.innovation.digital.wesleyfuchter.map.ExemploTreeMap
+one/innovation/digital/wesleyfuchter/comparators/desafio/EstadoOrdenadoNome.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.EstadoOrdenadoNome
 one/innovation/digital/andrelugomes/interfaces/Programa.java
  one.innovation.digital.andrelugomes.interfaces.Programa
 one/innovation/digital/gabrielsantos/DIP/solucao/OracleConnection.java
@@ -140,6 +146,8 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/D
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Gerente
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Desafio/Programa.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Desafio.Programa
+one/innovation/digital/gabrielsantos/ISP/problema/Pinguim.java
+ one.innovation.digital.gabrielsantos.ISP.problema.Pinguim
 one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroAcao.java
  one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroAcao
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Programa.java
@@ -186,8 +194,8 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/e
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo03.equals.Carro
 one/innovation/digital/wesleyfuchter/list/ExemploArrayList.java
  one.innovation.digital.wesleyfuchter.list.ExemploArrayList
-one/innovation/digital/gabrielsantos/ISP/problema/Pinguim.java
- one.innovation.digital.gabrielsantos.ISP.problema.Pinguim
+one/innovation/digital/wesleyfuchter/map/NumerosRepetidos.java
+ one.innovation.digital.wesleyfuchter.map.NumerosRepetidos
 one/innovation/digital/andrelugomes/classes/pessoa/ProgramaDoCliente.java
  one.innovation.digital.andrelugomes.classes.pessoa.ProgramaDoCliente
 one/innovation/digital/augustojulio/Array.java
@@ -261,6 +269,8 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/segundo/Carro.jav
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.segundo.Carro
 one/innovation/digital/andrelugomes/condicionais/fors/For.java
  one.innovation.digital.andrelugomes.condicionais.fors.For
+one/innovation/digital/wesleyfuchter/comparators/Estudante.java
+ one.innovation.digital.wesleyfuchter.comparators.Estudante
 one/innovation/digital/wesleyfuchter/list/desafio/Programa.java
  one.innovation.digital.wesleyfuchter.list.desafio.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo02/Veiculo.java
@@ -269,6 +279,8 @@ one/innovation/digital/alexduarteferreira/letraB/TesteExececaoLetraB.java
  one.innovation.digital.alexduarteferreira.letraB.TesteExececaoLetraB
 one/innovation/digital/andrelugomes/classes/pessoa/PessoaFisica.java
  one.innovation.digital.andrelugomes.classes.pessoa.PessoaFisica
+one/innovation/digital/wesleyfuchter/comparators/desafio/EstadoReversoDDD.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.EstadoReversoDDD
 one/innovation/digital/andrelugomes/classes/pessoa/Pessoa.java
  one.innovation.digital.andrelugomes.classes.pessoa.Pessoa
 one/innovation/digital/andrelugomes/condicionais/operadores/Igualdade.java
@@ -309,8 +321,8 @@ one/innovation/digital/gabrielsantos/ISP/solucao/Pato.java
  one.innovation.digital.gabrielsantos.ISP.solucao.Pato
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo01/Motocicleta.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo01.Motocicleta
-one/innovation/digital/gabrielsantos/DIP/problema/Produto.java
- one.innovation.digital.gabrielsantos.DIP.problema.Produto
+one/innovation/digital/wesleyfuchter/map/ExemploHashmap.java
+ one.innovation.digital.wesleyfuchter.map.ExemploHashmap
 one/innovation/digital/andrelugomes/debug/pessoa/Pessoa.java
  one.innovation.digital.andrelugomes.debug.pessoa.Pessoa
 one/innovation/digital/andrelugomes/interfaces/Veiculo.java
@@ -332,9 +344,19 @@ one/innovation/digital/andrelugomes/interfaces/Gol.java
  one.innovation.digital.andrelugomes.interfaces.Gol
 one/innovation/digital/andrelugomes/condicionais/operadores/Matematicos.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Matematicos
-one/innovation/digital/wesleyfuchter/map/ExemploHashmap.java
- one.innovation.digital.wesleyfuchter.map.ExemploHashmap
-one/innovation/digital/wesleyfuchter/map/ExemploTreeMap.java
- one.innovation.digital.wesleyfuchter.map.ExemploTreeMap
-one/innovation/digital/wesleyfuchter/map/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.map.desafio.Programa
+one/innovation/digital/wesleyfuchter/comparators/EstudanteOrdemIdadeReversaComparator.java
+ one.innovation.digital.wesleyfuchter.comparators.EstudanteOrdemIdadeReversaComparator
+one/innovation/digital/gabrielsantos/DIP/problema/Produto.java
+ one.innovation.digital.gabrielsantos.DIP.problema.Produto
+one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
+one/innovation/digital/wesleyfuchter/comparators/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.Programa
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalEstados.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalEstados
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptional.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptional
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalPrimitivos.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalPrimitivos
+one/innovation/digital/wesleyfuchter/optionals/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.optionals.desafio.Programa

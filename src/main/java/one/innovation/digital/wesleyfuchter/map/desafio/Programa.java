@@ -180,7 +180,5 @@ public class Programa {
         for (Map.Entry<String, String> estadosNomesSiglas : estadosBrasileiros.entrySet()) {
             System.out.println("Nome do estado: " + estadosNomesSiglas.getValue() + ". (" + estadosNomesSiglas.getKey()+ ")");
         }
-
-        estadosBrasileiros.get(3);
     }
 }
