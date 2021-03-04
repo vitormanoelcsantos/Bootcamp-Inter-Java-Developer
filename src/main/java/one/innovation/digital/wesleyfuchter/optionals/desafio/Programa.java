@@ -6,6 +6,7 @@ public class Programa {
     public static void main(String[] args) {
         Optional<Integer> idade;
         Optional<Integer> novaIdade;
+        Optional<String> a = Optional.of("23");
         idade = Optional.empty();
 
         idade.ifPresentOrElse(System.out::println, () -> System.out.println("Optional vazio."));

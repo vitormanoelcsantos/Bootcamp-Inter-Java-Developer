@@ -352,11 +352,17 @@ one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
  one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
 one/innovation/digital/wesleyfuchter/comparators/desafio/Programa.java
  one.innovation.digital.wesleyfuchter.comparators.desafio.Programa
-one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalEstados.java
- one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalEstados
-one/innovation/digital/wesleyfuchter/optionals/ExemploOptional.java
- one.innovation.digital.wesleyfuchter.optionals.ExemploOptional
 one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalPrimitivos.java
  one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalPrimitivos
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptional.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptional
 one/innovation/digital/wesleyfuchter/optionals/desafio/Programa.java
  one.innovation.digital.wesleyfuchter.optionals.desafio.Programa
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalEstados.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalEstados
+one/innovation/digital/wesleyfuchter/stream/desafio/Estudante.java
+ one.innovation.digital.wesleyfuchter.stream.desafio.Estudante
+one/innovation/digital/wesleyfuchter/stream/ExemploStreamAPI.java
+ one.innovation.digital.wesleyfuchter.stream.ExemploStreamAPI
+one/innovation/digital/wesleyfuchter/stream/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.stream.desafio.Programa
