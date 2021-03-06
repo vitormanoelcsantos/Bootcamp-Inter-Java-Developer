@@ -1,3 +1,5 @@
+one/innovation/digital/marcopollivier/orientacaoObjeto/segundoDesafio/Programa.java
+ one.innovation.digital.marcopollivier.orientacaoObjeto.segundoDesafio.Programa
 one/innovation/digital/gabrielsantos/OCP/solucao/ControladorDeDesconto.java
  one.innovation.digital.gabrielsantos.OCP.solucao.ControladorDeDesconto
 one/innovation/digital/marcopollivier/orientacaoObjeto/Teste/SubLider.java
@@ -56,6 +58,8 @@ one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivroInfantil.java
  one.innovation.digital.gabrielsantos.OCP.solucao.DescontoLivroInfantil
 one/innovation/digital/andrelugomes/finals/Programa.java
  one.innovation.digital.andrelugomes.finals.Programa
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptional.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptional
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/ExemploInstanciaObjeto.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.paradigma.ExemploInstanciaObjeto
 one/innovation/digital/gabrielsantos/OCP/solucao/DescontoLivroAcao.java
@@ -66,6 +70,8 @@ one/innovation/digital/gabrielsantos/ISP/solucao/Ave.java
  one.innovation.digital.gabrielsantos.ISP.solucao.Ave
 one/innovation/digital/wesleyfuchter/map/ExemploHashTable.java
  one.innovation.digital.wesleyfuchter.map.ExemploHashTable
+one/innovation/digital/marcopollivier/orientacaoObjeto/segundoDesafio/Livros.java
+ one.innovation.digital.marcopollivier.orientacaoObjeto.segundoDesafio.Livros
 one/innovation/digital/gabrielsantos/SRP/problema/Produto.java
  one.innovation.digital.gabrielsantos.SRP.problema.Produto
 one/innovation/digital/wesleyfuchter/list/ExemploList.java
@@ -146,8 +152,8 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/D
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.Desafio.Gerente
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Desafio/Programa.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Desafio.Programa
-one/innovation/digital/gabrielsantos/ISP/problema/Pinguim.java
- one.innovation.digital.gabrielsantos.ISP.problema.Pinguim
+one/innovation/digital/wesleyfuchter/comparators/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.Programa
 one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroAcao.java
  one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroAcao
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/Desafio/Programa.java
@@ -160,6 +166,8 @@ one/innovation/digital/marcopollivier/trabalhandoComDatas/javaLocalDate/Exemplo0
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaLocalDate.Exemplo05
 one/innovation/digital/andrelugomes/interfaces/Trator.java
  one.innovation.digital.andrelugomes.interfaces.Trator
+one/innovation/digital/gabrielsantos/DIP/problema/Produto.java
+ one.innovation.digital.gabrielsantos.DIP.problema.Produto
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/ExemploMetodos.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.paradigma.ExemploMetodos
 one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompraRepository.java
@@ -186,8 +194,12 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/e
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo02.Programa
 one/innovation/digital/gabrielsantos/ISP/problema/Ave.java
  one.innovation.digital.gabrielsantos.ISP.problema.Ave
+one/innovation/digital/gabrielsantos/ISP/problema/Pinguim.java
+ one.innovation.digital.gabrielsantos.ISP.problema.Pinguim
 one/innovation/digital/gabrielsantos/SRP/solucao/OrdemDeCompra.java
  one.innovation.digital.gabrielsantos.SRP.solucao.OrdemDeCompra
+one/innovation/digital/wesleyfuchter/optionals/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.optionals.desafio.Programa
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo05.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo05
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo03/equals/Carro.java
@@ -214,6 +226,8 @@ one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/e
  one.innovation.digital.marcopollivier.orientacaoObjeto.caracteristicas.heranca.exemplo03.equals.Veiculo
 one/innovation/digital/marcopollivier/orientacaoObjeto/paradigma/Pessoa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.paradigma.Pessoa
+one/innovation/digital/wesleyfuchter/stream/desafio/Programa.java
+ one.innovation.digital.wesleyfuchter.stream.desafio.Programa
 one/innovation/digital/andrelugomes/classes/pessoa/Usuario.java
  one.innovation.digital.andrelugomes.classes.pessoa.Usuario
 one/innovation/digital/andrelugomes/abstracts/FormaGeometrica.java
@@ -242,6 +256,8 @@ one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/Exemplo01
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.Exemplo01
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo06.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo06
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalEstados.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalEstados
 one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/primeiro/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.primeiro.Programa
 one/innovation/digital/andrelugomes/debug/Programa.java
@@ -271,6 +287,8 @@ one/innovation/digital/andrelugomes/condicionais/fors/For.java
  one.innovation.digital.andrelugomes.condicionais.fors.For
 one/innovation/digital/wesleyfuchter/comparators/Estudante.java
  one.innovation.digital.wesleyfuchter.comparators.Estudante
+one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalPrimitivos.java
+ one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalPrimitivos
 one/innovation/digital/wesleyfuchter/list/desafio/Programa.java
  one.innovation.digital.wesleyfuchter.list.desafio.Programa
 one/innovation/digital/marcopollivier/orientacaoObjeto/caracteristicas/heranca/exemplo02/Veiculo.java
@@ -285,6 +303,8 @@ one/innovation/digital/andrelugomes/classes/pessoa/Pessoa.java
  one.innovation.digital.andrelugomes.classes.pessoa.Pessoa
 one/innovation/digital/andrelugomes/condicionais/operadores/Igualdade.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Igualdade
+one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo02
 one/innovation/digital/andrelugomes/condicionais/operadores/Relacionais.java
@@ -305,6 +325,8 @@ one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDateFormat/Exemplo
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDateFormat.Exemplo02
 one/innovation/digital/andrelugomes/abstracts/Programa.java
  one.innovation.digital.andrelugomes.abstracts.Programa
+one/innovation/digital/wesleyfuchter/stream/ExemploStreamAPI.java
+ one.innovation.digital.wesleyfuchter.stream.ExemploStreamAPI
 one/innovation/digital/marcopollivier/trabalhandoComDatas/javaCalendar/Exemplo02.java
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaCalendar.Exemplo02
 one/innovation/digital/andrelugomes/classes/pessoa/Teste.java
@@ -340,29 +362,50 @@ one/innovation/digital/gabrielsantos/OCP/problema/DescontoLivroInfantil.java
  one.innovation.digital.gabrielsantos.OCP.problema.DescontoLivroInfantil
 one/innovation/digital/wesleyfuchter/list/ExemploVector.java
  one.innovation.digital.wesleyfuchter.list.ExemploVector
+one/innovation/digital/wesleyfuchter/stream/desafio/Estudante.java
+ one.innovation.digital.wesleyfuchter.stream.desafio.Estudante
 one/innovation/digital/andrelugomes/interfaces/Gol.java
  one.innovation.digital.andrelugomes.interfaces.Gol
 one/innovation/digital/andrelugomes/condicionais/operadores/Matematicos.java
  one.innovation.digital.andrelugomes.condicionais.operadores.Matematicos
 one/innovation/digital/wesleyfuchter/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.innovation.digital.wesleyfuchter.comparators.EstudanteOrdemIdadeReversaComparator
-one/innovation/digital/gabrielsantos/DIP/problema/Produto.java
- one.innovation.digital.gabrielsantos.DIP.problema.Produto
-one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
- one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
-one/innovation/digital/wesleyfuchter/comparators/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.comparators.desafio.Programa
-one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalPrimitivos.java
- one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalPrimitivos
-one/innovation/digital/wesleyfuchter/optionals/ExemploOptional.java
- one.innovation.digital.wesleyfuchter.optionals.ExemploOptional
-one/innovation/digital/wesleyfuchter/optionals/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.optionals.desafio.Programa
-one/innovation/digital/wesleyfuchter/optionals/ExemploOptionalEstados.java
- one.innovation.digital.wesleyfuchter.optionals.ExemploOptionalEstados
-one/innovation/digital/wesleyfuchter/stream/desafio/Estudante.java
- one.innovation.digital.wesleyfuchter.stream.desafio.Estudante
-one/innovation/digital/wesleyfuchter/stream/ExemploStreamAPI.java
- one.innovation.digital.wesleyfuchter.stream.ExemploStreamAPI
-one/innovation/digital/wesleyfuchter/stream/desafio/Programa.java
- one.innovation.digital.wesleyfuchter.stream.desafio.Programa
+one/innovation/digital/joaopaulo/imutabilidade/Programa.java
+ one.innovation.digital.joaopaulo.imutabilidade.Programa
+one/innovation/digital/praticandoProgramacaoEmJava/abreviacao/Programa.java
+ one.innovation.digital.praticandoProgramacaoEmJava.abreviacao.Programa
+one/innovation/digital/joaopaulo/composicaoDeFuncoes/Programa.java
+ one.innovation.digital.joaopaulo.composicaoDeFuncoes.Programa
+one/innovation/digital/joaopaulo/unaryOperator/Programa.java
+ one.innovation.digital.joaopaulo.unaryOperator.Programa
+one/innovation/digital/joaopaulo/funcoesPuras/Programa.java
+ one.innovation.digital.joaopaulo.funcoesPuras.Programa
+one/innovation/digital/joaopaulo/funcaoComClasseAnonima/Programa.java
+ one.innovation.digital.joaopaulo.funcaoComClasseAnonima.Programa
+ one.innovation.digital.joaopaulo.funcaoComClasseAnonima.Programa$1
+one/innovation/digital/joaopaulo/funcaoComClasseAnonima/Funcao.java
+ one.innovation.digital.joaopaulo.funcaoComClasseAnonima.Funcao
+one/innovation/digital/joaopaulo/funcaoComLambda/Programa.java
+ one.innovation.digital.joaopaulo.funcaoComLambda.Programa
+one/innovation/digital/joaopaulo/funcaoComLambda/Funcao.java
+ one.innovation.digital.joaopaulo.funcaoComLambda.Funcao
+one/innovation/digital/joaopaulo/fatorial/fatorialRecursivo/Programa.java
+ one.innovation.digital.joaopaulo.fatorial.fatorialRecursivo.Programa
+one/innovation/digital/joaopaulo/fatorial/fatorialTailCall/Programa.java
+ one.innovation.digital.joaopaulo.fatorial.fatorialTailCall.Programa
+one/innovation/digital/joaopaulo/fatorial/fatorialComMemoization/Programa.java
+ one.innovation.digital.joaopaulo.fatorial.fatorialComMemoization.Programa
+one/innovation/digital/joaopaulo/funcaoAltaOrdem/Programa.java
+ one.innovation.digital.joaopaulo.funcaoAltaOrdem.Programa
+ one.innovation.digital.joaopaulo.funcaoAltaOrdem.Programa$Calculo
+one/innovation/digital/joaopaulo/consumidores/Programa.java
+ one.innovation.digital.joaopaulo.consumidores.Programa
+one/innovation/digital/joaopaulo/functions/Programa.java
+ one.innovation.digital.joaopaulo.functions.Programa
+one/innovation/digital/joaopaulo/predicados/Programa.java
+ one.innovation.digital.joaopaulo.predicados.Programa
+one/innovation/digital/joaopaulo/suppliers/Programa.java
+ one.innovation.digital.joaopaulo.suppliers.Pessoa
+ one.innovation.digital.joaopaulo.suppliers.Programa
+one/innovation/digital/joaopaulo/iteracoes/Programa.java
+ one.innovation.digital.joaopaulo.iteracoes.Programa
