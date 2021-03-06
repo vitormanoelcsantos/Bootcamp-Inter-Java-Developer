@@ -1,5 +1,8 @@
 package one.innovation.digital.joaopaulo.iteracoes;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -13,6 +16,16 @@ public class Programa {
         imprimirTodosOsNomes(nomes);
         System.out.println();
         imprimirTodosOsNumeros(numeros);
+
+        List<String> profissão = new ArrayList<>();
+        profissão.add("Gerente de qualidade");
+        profissão.add("Gerente de segurança");
+        profissão.add("Desenvolvedor");
+        profissão.add("Estagiário");
+
+        profissão.stream().filter(elementos -> elementos.toLowerCase()
+                .contains("gerente"))
+                .forEach(System.out::println);
     }
 
     public static void imprimirNomesFiltrados(String... nomes){ // ... é igual a []
