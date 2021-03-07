@@ -1,5 +1,6 @@
 package one.innovation.digital.wesleyfuchter.list;
 
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/one.innovation.digital.core/one.innovation.digital.core.iml" filepath="$PROJECT_DIR$/one.innovation.digital.core/one.innovation.digital.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.innovation.digital.test/one.innovation.digital.test.iml" filepath="$PROJECT_DIR$/one.innovation.digital.test/one.innovation.digital.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/one.innovation.digital.utils/one.innovation.digital.utils.iml" filepath="$PROJECT_DIR$/one.innovation.digital.utils/one.innovation.digital.utils.iml" />
     </modules>
   </component>
