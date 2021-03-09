@@ -7,7 +7,6 @@ public class NumerosRepetidos {
     public static void main(String[] args) {
         HashMap<Integer, Integer> arrayRepetidos = new HashMap<>();
 
-
         Integer[] meuArray = {0, 0, 1, 2, 3, 3, 3, 4, 2, 5, 5};
 
         for (int i = 0; i < meuArray.length; i++) {
@@ -38,33 +37,11 @@ public class NumerosRepetidos {
 
         }
 
-
         sb.insert(0, "\nSão eles:");
         sb.insert(0, overAllCount);
         sb.insert(0, "Números repetidos: ");
 
 
         System.out.println(sb);
-
-        /** Do jeito que eu faria */
-//        Integer count = 0;
-//        for (Integer key: arrayRepetidos.keySet()){
-//            System.out.println("Key: " +key+ " and Value: "+arrayRepetidos.get(key));
-//            if (arrayRepetidos.get(key) > 1){
-//                count += 1;
-//
-//                sb.append("\n");
-//                sb.append(key);
-//                sb.append(": ");
-//                sb.append(arrayRepetidos.get(key));
-//                sb.append(" vezes.");
-//            }
-//        }
-//
-//        sb.insert(0, "\nSão eles:");
-//        sb.insert(0, count);
-//        sb.insert(0, "Números repetidos: ");
-//
-//        System.out.println(sb);
     }
 }

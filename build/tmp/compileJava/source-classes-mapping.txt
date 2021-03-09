@@ -324,6 +324,8 @@ one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo04.jav
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo04
 one/innovation/digital/andrelugomes/classes/Programa.java
  one.innovation.digital.andrelugomes.classes.Programa
+one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
+ one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
 one/innovation/digital/joaopaulo/fatorial/fatorialTailCall/Programa.java
  one.innovation.digital.joaopaulo.fatorial.fatorialTailCall.Programa
 one/innovation/digital/gabrielsantos/ISP/problema/Ave.java
@@ -419,5 +421,5 @@ one/innovation/digital/wesleyfuchter/stream/desafio/Estudante.java
  one.innovation.digital.wesleyfuchter.stream.desafio.Estudante
 one/innovation/digital/wesleyfuchter/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.innovation.digital.wesleyfuchter.comparators.EstudanteOrdemIdadeReversaComparator
-one/innovation/digital/wesleyfuchter/comparators/desafio/Estado.java
- one.innovation.digital.wesleyfuchter.comparators.desafio.Estado
+one/innovation/digital/joaopaulo/inferencia/Programa.java
+ one.innovation.digital.joaopaulo.inferencia.Programa
