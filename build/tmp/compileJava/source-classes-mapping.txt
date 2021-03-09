@@ -423,3 +423,16 @@ one/innovation/digital/wesleyfuchter/comparators/EstudanteOrdemIdadeReversaCompa
  one.innovation.digital.wesleyfuchter.comparators.EstudanteOrdemIdadeReversaComparator
 one/innovation/digital/joaopaulo/inferencia/Programa.java
  one.innovation.digital.joaopaulo.inferencia.Programa
+one/innovation/digital/joaopaulo/inferenciaLambda/Programa.java
+ one.innovation.digital.joaopaulo.inferenciaLambda.Programa
+one/innovation/digital/clientHttp/Programa.java
+ one.innovation.digital.clientHttp.Programa
+ one.innovation.digital.clientHttp.Programa$1
+one/innovation/digital/stringIsBlank/Programa.java
+ one.innovation.digital.stringIsBlank.Programa
+one/innovation/digital/stringRepeat/Programa.java
+ one.innovation.digital.stringRepeat.Programa
+one/innovation/digital/stringLines/Programas.java
+ one.innovation.digital.stringLines.Programas
+one/innovation/digital/joaopaulo/collection/Programa.java
+ one.innovation.digital.joaopaulo.collection.Programa
