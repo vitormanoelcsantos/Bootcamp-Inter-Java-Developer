@@ -59,8 +59,8 @@ one/innovation/digital/marcopollivier/trabalhandoComDatas/javaDate/Exemplo01.jav
  one.innovation.digital.marcopollivier.trabalhandoComDatas.javaDate.Exemplo01
 one/innovation/digital/joaopaulo/fatorial/fatorialComMemoization/Programa.java
  one.innovation.digital.joaopaulo.fatorial.fatorialComMemoization.Programa
-one/innovation/digital/praticandoProgramacaoEmJava/abreviacao/Programa.java
- one.innovation.digital.praticandoProgramacaoEmJava.abreviacao.Programa
+one/innovation/digital/stringLines/Programas.java
+ one.innovation.digital.stringLines.Programas
 one/innovation/digital/marcopollivier/orientacaoObjeto/desafio/segundo/Programa.java
  one.innovation.digital.marcopollivier.orientacaoObjeto.desafio.segundo.Programa
 one/innovation/digital/wesleyfuchter/comparators/ComparatorsExemploList.java
@@ -432,7 +432,7 @@ one/innovation/digital/stringIsBlank/Programa.java
  one.innovation.digital.stringIsBlank.Programa
 one/innovation/digital/stringRepeat/Programa.java
  one.innovation.digital.stringRepeat.Programa
-one/innovation/digital/stringLines/Programas.java
- one.innovation.digital.stringLines.Programas
 one/innovation/digital/joaopaulo/collection/Programa.java
  one.innovation.digital.joaopaulo.collection.Programa
+one/innovation/digital/praticandoProgramacaoEmJava/abreviacao/Programa.java
+ one.innovation.digital.praticandoProgramacaoEmJava.abreviacao.Programa
