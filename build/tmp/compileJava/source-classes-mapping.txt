@@ -434,5 +434,3 @@ one/innovation/digital/stringRepeat/Programa.java
  one.innovation.digital.stringRepeat.Programa
 one/innovation/digital/joaopaulo/collection/Programa.java
  one.innovation.digital.joaopaulo.collection.Programa
-one/innovation/digital/praticandoProgramacaoEmJava/abreviacao/Programa.java
- one.innovation.digital.praticandoProgramacaoEmJava.abreviacao.Programa
